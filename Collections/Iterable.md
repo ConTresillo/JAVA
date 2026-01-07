@@ -1,4 +1,4 @@
-## 🟠 java.lang.Iterable — Methods, Pitfalls, Fixes
+# 🟠 `java.lang.Iterable` — Methods, Pitfalls, Fixes
 
 > `Iterable<T>` is the **root interface** that enables the enhanced `for-each` loop.
 

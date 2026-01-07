@@ -1,4 +1,4 @@
-## 🟠 java.util.Deque — Methods, Pitfalls, Failures, Fixes
+# 🟠 `java.util.Deque` — Methods, Pitfalls, Failures, Fixes
 
 > `Deque<E>` extends [`Queue<E>`](Queue.md) and represents a **double-ended [queue](Queue.md)**  
 > (insertion + removal at both head and tail).

@@ -1,4 +1,4 @@
-## 🔵 java.util.ArrayDeque — Behavior, Pitfalls, Failures, Fixes
+# 🔵 `java.util.ArrayDeque` — Behavior, Pitfalls, Failures, Fixes
 
 > `ArrayDeque<E>` is a **resizable-array implementation of [[Deque]]**.  
 > It is **not synchronized**, **does not allow nulls**, and is usually **faster than LinkedList**.

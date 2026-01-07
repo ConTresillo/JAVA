@@ -1,4 +1,4 @@
-## 🟠 java.util.Queue — Methods, Pitfalls, Failures, Fixes
+# 🟠 `java.util.Queue` — Methods, Pitfalls, Failures, Fixes
 
 > `Queue<E>` extends [`Collection<E>`](Collections.md) and represents a **FIFO (typically) ordered collection** designed for **holding elements prior to processing**.
 

@@ -1,4 +1,4 @@
-## 🟠 java.util.Collection — Methods, Pitfalls, Failures, Fixes
+# 🟠 `java.util.Collection` — Methods, Pitfalls, Failures, Fixes
 
 > `Collection<E>` extends [`Iterable<E>`](Iterable.md) and represents a **mutable group of elements**.
 
